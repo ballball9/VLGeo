@@ -1,2 +1,2 @@
-# UAV-VLL
+# VLGeo
 Bridging Viewpoints in UAV-View Geo-Localization using a Large Vision-Language Model
